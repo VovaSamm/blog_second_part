@@ -4,14 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0ccc2b3a-7a97-4b3f-af26-a591bd129e04" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/blog second part.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my_site_second/.gitignore" afterDir="false" />
+    <list default="true" id="0ccc2b3a-7a97-4b3f-af26-a591bd129e04" name="Changes" comment="Здеся добовляем ветки что бы не повадно было за одно надо глянуть гит игнор так как я в себе не уверен(((">
+      <change beforePath="$PROJECT_DIR$/.idea/blog second part.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/blog second part.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my_site_second/.env" beforeDir="false" afterPath="$PROJECT_DIR$/my_site_second/.env" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my_site_second/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/my_site_second/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my_site_second/db.sqlite3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/my_site_second/my_site_second/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/my_site_second/my_site_second/settings.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -27,8 +26,25 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="brash1" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;VovaSamm&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/VovaSamm/blog_second_part.git&quot;,
+    &quot;accountId&quot;: &quot;2e9f9c9e-ad12-443c-a3d5-bc44a79c8e65&quot;
+  }
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 3
 }</component>
@@ -38,14 +54,14 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "DefaultHtmlFileTemplate": "HTML File",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
-    "last_opened_file_path": "D:/MyJango_fersn_project/blog second part"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;brash2&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Марина/PycharmProjects/estate_portal&quot;
   }
-}]]></component>
+}</component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -62,6 +78,19 @@
       <option name="presentableId" value="Default" />
       <updated>1751309294208</updated>
     </task>
+    <task id="LOCAL-00001" summary="эта хрень работала но после добавки енв перестала и не хотела выводить менюху с регистрацией в абщем %!?">
+      <option name="closed" value="true" />
+      <created>1751372763540</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1751372763540</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="эта хрень работала но после добавки енв перестала и не хотела выводить менюху с регистрацией в абщем %!?" />
+    <option name="LAST_COMMIT_MESSAGE" value="эта хрень работала но после добавки енв перестала и не хотела выводить менюху с регистрацией в абщем %!?" />
   </component>
 </project>
